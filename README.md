@@ -1,3 +1,3 @@
-# Toy of check in with museum trip
+# checking in with a museum trip
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
