@@ -117,7 +117,6 @@ export default function App() {
                   name="password"
                   type="password"
                   autoComplete="current-password"
-                  autoFocus
                 />
                 <FormControlLabel
                   control={<Checkbox value="remember" color="primary" />}
