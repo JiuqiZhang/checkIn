@@ -149,7 +149,7 @@ export default function App() {
     );
   }else{
     return(<Box sx={{ m: "4%"}} ><h1>Hey Roxy,</h1>
-    <h3>I would like to invite you to a museum trip this Friday 6:00pm. Hope to see you again.<br/>
+    <h3>I would like to invite you to a museum trip this Friday 6:00pm. Hope to see you again. 🖤<br/>
 
 Looking forward to hearing from you soon.</h3>
 
